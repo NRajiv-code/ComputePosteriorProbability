@@ -1,12 +1,12 @@
 Name: Rajiv Ramachandra Nidumolu
-UTA ID:1001866606
+
 
 Task 1:
 
 Command-line Instructions
 Prerequisites:
-* Install the latest version ofﾊJava
-* You may need to set yourﾊJAVA_HOME.
+* Install the latest version ofﾃ開ava
+* You may need to set yourﾃ開AVA_HOME.
 * cd your path~/computer_a_posteriori.java.
 * javac computer_a_posteriori.java.
 * java computer_a_posteriori.java CLLCCLLLCCL(string you want to enter)
@@ -25,8 +25,8 @@ Code Structure
 Task 2:
 Command-line Instructions
 Prerequisites:
-* Install the latest version ofﾊJava
-* You may need to set yourﾊJAVA_HOME.
+* Install the latest version ofﾃ開ava
+* You may need to set yourﾃ開AVA_HOME.
 * cd your path~/bnet.java.
 * javac bnet.java.
 * java bnet Jt given Et Bf(your input for cmd line string).
